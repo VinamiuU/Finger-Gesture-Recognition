@@ -1,0 +1,42 @@
+# =========================================================================
+# Keil MDK-ARM / uVision specialized .gitignore
+# =========================================================================
+
+# Keil Build Output Directories
+Objects/
+Listings/
+RTE/
+
+# Keil Project User GUI & Temporary Files
+*.uvguix.*
+*.uvgui.*
+*.bak
+*.Bak
+*.dep
+*.crf
+*.o
+*.d
+*.axf
+*.map
+*.build_log.htm
+*.htm
+*.lnp
+*.sct
+*.iex
+*.scvd
+*.dbgconf
+
+# OS / Editor temporary files
+.DS_Store
+Thumbs.db
+*.swp
+
+# Keep project configurations, source code and assembly files
+!*.uvprojx
+!*.uvoptx
+!*.c
+!*.h
+!*.s
+
+
+me.read.ipynb
