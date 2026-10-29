@@ -429,6 +429,11 @@
           <GroupName>Header</GroupName>
           <Files>
             <File>
+              <FileName>timer.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\timer.h</FilePath>
+            </File>
+            <File>
               <FileName>Oled.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\Oled.h</FilePath>
@@ -477,11 +482,6 @@
               <FileName>NVIC.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\NVIC.h</FilePath>
-            </File>
-            <File>
-              <FileName>timer.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\timer.h</FilePath>
             </File>
           </Files>
         </Group>
